@@ -3,7 +3,7 @@
 
 Excited to share that I've successfully completed three engaging projects during my internship at Codesoft! 🎉 Here's a brief overview:
 
-Password Generator 🛡️
+1 ] Password Generator 🛡️
 
 Created a robust password generator using Python.
 Implemented user input for specifying password length.
@@ -11,13 +11,13 @@ Utilized random characters to generate secure passwords.
 Displayed the generated password for user convenience.
 Simple Calculator 🧮
 
-Developed a user-friendly calculator application in Python.
+2 ] Developed a user-friendly calculator application in Python.
 Incorporated basic arithmetic operations (addition, subtraction, multiplication, division).
 Designed prompts for user input of two numbers and choice of operation.
 Executed calculations based on user input and displayed accurate results.
 Contact Book 📞📧📌
 
-Built a contact management system in Python to store contact details.
+3 ] Built a contact management system in Python to store contact details.
 Included functionalities such as adding new contacts with comprehensive details (name, phone number, email, address).
 Implemented a feature to view a list of all saved contacts with names and phone numbers.
 Enabled search functionality to find contacts by name or phone number.
